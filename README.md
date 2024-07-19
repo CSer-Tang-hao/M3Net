@@ -16,7 +16,7 @@ download data and extract frames for video clips with _Gym99_ and _Gym288_ annot
 
 ### Diving48
 
-Please visit the official site of [HAA500](http://www.svcl.ucsd.edu/projects/resound/dataset.html/) and download the RGB file of the dataset. 
+Please visit the official site of [Diving48](http://www.svcl.ucsd.edu/projects/resound/dataset.html/) and download the RGB file of the dataset. 
 
 ## Few-Shot Learning Protocols
 
